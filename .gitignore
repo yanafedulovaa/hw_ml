@@ -1,15 +1,12 @@
-# Виртуальное окружение
 .venv/
 venv/
 
-# Кэш Python
 __pycache__/
 *.pyc
 
-# Секретные данные
+
 .env
 
-# Локальные настройки
 .idea/workspace.xml
 .ipynb_checkpoints/
 
